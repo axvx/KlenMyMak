@@ -20,6 +20,8 @@ Klinex is a Streamlit-based application designed to help macOS users identify la
 
 * **Liberated Space Tracking**: Keeps a running total of the disk space reclaimed through deletions.
 
+  [alt text](image.png)
+
 ## ⚠️ IMPORTANT WARNING: USE WITH EXTREME CAUTION! ⚠️
 
 **This tool provides AI suggestions based solely on file names and paths. The AI cannot understand the actual content of your files or their real-time dependencies within your operating system.**
